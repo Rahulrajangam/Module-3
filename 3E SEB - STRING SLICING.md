@@ -23,8 +23,8 @@ To write a Python function that accepts a string and forms a new string by rever
 ### PROGRAM
 
 ```
-# Reg.No-212223060200
-# Name-Pradeep m
+# Reg.No-212222060188
+# Name-Rahul R
 
 def splitstring(a):
     x = a.split('@')
